@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Cameron Williams
 
 ### Spring 2023
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: Business Analytics
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Macroeconomics
 
-- Course 3
+- Technical Writing
 
-- Course 4
+- Intro to Composition and Programming
+
+- Computer Information Technology and Applications
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am _about to turn 19 years old!_ Here are some of my hobbies: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Lacrosse
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Pokemon Trading Card Game
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
